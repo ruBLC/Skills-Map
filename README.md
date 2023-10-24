@@ -14,6 +14,6 @@
 
 ## Полезные ссылки:
 
-- [Лендинг проекта](http://bimlider.ru/competency_map)
+- <a href="http://bimlider.ru/competency_map" target="_blank">Лендинг проекта</a>
 
-- [Прямая ссылка на дашборд](https://app.powerbi.com/view?r=eyJrIjoiNGUwNGY1ZTgtOGQzYS00MzVhLWIyOTQtZWNjZDgyNmRmMDNiIiwidCI6ImJlYmM0MDQ1LTkyODAtNDU5ZS1hZGZhLTdmMzMwNWMxNzNmMiIsImMiOjl9)
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiNGUwNGY1ZTgtOGQzYS00MzVhLWIyOTQtZWNjZDgyNmRmMDNiIiwidCI6ImJlYmM0MDQ1LTkyODAtNDU5ZS1hZGZhLTdmMzMwNWMxNzNmMiIsImMiOjl9" target="_blank">Прямая ссылка на дашборд</a>
