@@ -16,9 +16,9 @@
 
 ## Материалы проекта:
 
-[Наборы таблиц](data/csv)
+- [Наборы таблиц](data/csv)
 
-[Файл с картой в формате XLSX](https://github.com/ruBLC/Skills-Map/raw/main/reports/xls/Карта%20компетенций.xlsx)
+- [Файл с картой в формате XLSX](https://github.com/ruBLC/Skills-Map/raw/main/reports/xls/Карта%20компетенций.xlsx)
 
 ## Полезные ссылки:
 
