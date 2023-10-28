@@ -1,1 +1,5 @@
 docs/git_help_cmd.txt
+__pycache__
+/.stestr
+settings.json
+.venv
