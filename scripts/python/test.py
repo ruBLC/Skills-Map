@@ -34,5 +34,5 @@ def save_html_to_md(url):
 
 
 # Пример использования
-url = "http://bizlog.ru/eks/eks-5/6.htm"  # Замените на URL, который вам нужен
+url = "https://classinform.ru/profstandarty/16.032-spetcialist-v-oblasti-proizvodstvenno-tekhnicheskogo-i-tekhnologicheskogo-obespecheniia-stroitelnogo-proizvodstva.html"  # Замените на URL, который вам нужен
 save_html_to_md(url)
